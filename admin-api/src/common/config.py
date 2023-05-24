@@ -1,5 +1,5 @@
 from pydantic import BaseSettings
-from app.common.constants import Environment
+from src.common.constants import Environment
 
 
 class Config:
